@@ -75,7 +75,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://q1.qlogo.cn/g?b=qq&nk=2229242816&s=640 # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/QQ图片20230312200633.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
